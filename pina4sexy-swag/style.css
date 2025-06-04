@@ -1,11 +1,39 @@
-h1{
-    color: brown;
+.div{
+    margin: 70px;
+    border: 1px solid black;
 }
-p{
-    font-size: 10px;
-    color: aqua;
-    text-align: center;
+.div-1{
+    border: 1px solid black;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    background-color: aqua;
 }
-body{
-    background-color: black;
+.div-2{
+    border: 1px solid black;
+    margin: 25px 50px 75px 100px;
+    background-color: aquamarine;
+}
+.div-3{
+    border: 1px solid black;
+    margin: 25px 50px 75px;
+    background-color: blanchedalmond;
+}
+.div-4{
+    border: 1px solid black;
+    margin: 25px 50px;
+    background-color: rgb(95, 95, 235);
+}
+.div-5{
+    width: 300px;
+    border: 1px solid red;
+    margin: auto;
+}
+.marlboro{
+    border: 1px solid red;
+    margin-left: 100px;
+}
+.marlboro-1{
+    margin-left: inherit;
 }
